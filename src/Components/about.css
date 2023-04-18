@@ -1,0 +1,61 @@
+.big {
+    /* vertical-align: middle;
+    width: 100%px !important; */
+    width: 1315px !important;
+    height: 492px !important;
+
+}
+
+.Naa {
+    background-color: #dee2e605;
+    position: absolute;
+    top: 170px;
+    left: 200px;
+    width: 434px;
+    padding: 20px;
+    border-radius: 31px;
+}
+
+
+
+
+.Naa h3 {
+    font-size: 1.75rem;
+    color: #ad4949;
+    font-family: fantasy;
+}
+
+.Naa p {
+    color: #0cabcb !important;
+}
+
+.w-100 {
+    width: 100% !important;
+    height: 803px !important;
+}
+
+.carousel {
+    position: relative;
+    margin-top: 30px !important;
+}
+
+.video {
+    margin-top: 30px;
+}
+
+.Type {
+    background: bisque;
+    width: 494px;
+    padding: 30px;
+    margin-top: 15px;
+    margin-left: 379px;
+    height: 171px;
+    border: double;
+    border-radius: 45px;
+}
+
+.btn btn-outline-success {
+    background-color: rgb(116 104 104);
+    color: black;
+    border: red;
+}
